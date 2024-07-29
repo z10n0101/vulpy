@@ -68,7 +68,7 @@
             "SEVERITY.HIGH": 4,
             "CONFIDENCE.HIGH": 4
           },
-          "/bad/api_list.py": {
+          "./bad/api_list.py": {
             "loc": 14,
             "nosec": 0,
             "skipped_tests": 0,
@@ -81,7 +81,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/bad/api_post.py": {
+          "./bad/api_post.py": {
             "loc": 23,
             "nosec": 0,
             "skipped_tests": 0,
@@ -94,7 +94,7 @@
             "CONFIDENCE.MEDIUM": 1,
             "CONFIDENCE.HIGH": 0
           },
-          "/bad/brute.py": {
+          "./bad/brute.py": {
             "loc": 19,
             "nosec": 0,
             "skipped_tests": 0,
@@ -107,7 +107,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 2
           },
-          "/bad/db.py": {
+          "./bad/db.py": {
             "loc": 18,
             "nosec": 0,
             "skipped_tests": 0,
@@ -120,7 +120,7 @@
             "CONFIDENCE.MEDIUM": 1,
             "CONFIDENCE.HIGH": 0
           },
-          "/bad/db_init.py": {
+          "./bad/db_init.py": {
             "loc": 32,
             "nosec": 0,
             "skipped_tests": 0,
@@ -133,7 +133,7 @@
             "CONFIDENCE.MEDIUM": 1,
             "CONFIDENCE.HIGH": 0
           },
-          "/bad/libapi.py": {
+          "./bad/libapi.py": {
             "loc": 22,
             "nosec": 0,
             "skipped_tests": 0,
@@ -146,7 +146,7 @@
             "CONFIDENCE.MEDIUM": 3,
             "CONFIDENCE.HIGH": 0
           },
-          "/bad/libmfa.py": {
+          "./bad/libmfa.py": {
             "loc": 55,
             "nosec": 0,
             "skipped_tests": 0,
@@ -159,7 +159,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/bad/libposts.py": {
+          "./bad/libposts.py": {
             "loc": 18,
             "nosec": 0,
             "skipped_tests": 0,
@@ -172,7 +172,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/bad/libsession.py": {
+          "./bad/libsession.py": {
             "loc": 20,
             "nosec": 0,
             "skipped_tests": 0,
@@ -185,7 +185,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 1
           },
-          "/bad/libuser.py": {
+          "./bad/libuser.py": {
             "loc": 38,
             "nosec": 0,
             "skipped_tests": 0,
@@ -198,7 +198,7 @@
             "CONFIDENCE.MEDIUM": 3,
             "CONFIDENCE.HIGH": 0
           },
-          "/bad/mod_api.py": {
+          "./bad/mod_api.py": {
             "loc": 50,
             "nosec": 0,
             "skipped_tests": 0,
@@ -211,7 +211,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/bad/mod_csp.py": {
+          "./bad/mod_csp.py": {
             "loc": 5,
             "nosec": 0,
             "skipped_tests": 0,
@@ -224,7 +224,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/bad/mod_hello.py": {
+          "./bad/mod_hello.py": {
             "loc": 5,
             "nosec": 0,
             "skipped_tests": 0,
@@ -237,7 +237,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/bad/mod_mfa.py": {
+          "./bad/mod_mfa.py": {
             "loc": 42,
             "nosec": 0,
             "skipped_tests": 0,
@@ -250,7 +250,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/bad/mod_posts.py": {
+          "./bad/mod_posts.py": {
             "loc": 23,
             "nosec": 0,
             "skipped_tests": 0,
@@ -263,7 +263,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/bad/mod_user.py": {
+          "./bad/mod_user.py": {
             "loc": 51,
             "nosec": 0,
             "skipped_tests": 0,
@@ -276,7 +276,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/bad/vulpy-ssl.py": {
+          "./bad/vulpy-ssl.py": {
             "loc": 19,
             "nosec": 0,
             "skipped_tests": 0,
@@ -289,7 +289,7 @@
             "CONFIDENCE.MEDIUM": 4,
             "CONFIDENCE.HIGH": 0
           },
-          "/bad/vulpy.py": {
+          "./bad/vulpy.py": {
             "loc": 41,
             "nosec": 0,
             "skipped_tests": 0,
@@ -302,7 +302,7 @@
             "CONFIDENCE.MEDIUM": 2,
             "CONFIDENCE.HIGH": 0
           },
-          "/good/cutpasswd.py": {
+          "./good/cutpasswd.py": {
             "loc": 13,
             "nosec": 0,
             "skipped_tests": 0,
@@ -315,7 +315,7 @@
             "CONFIDENCE.MEDIUM": 1,
             "CONFIDENCE.HIGH": 0
           },
-          "/good/db_init.py": {
+          "./good/db_init.py": {
             "loc": 33,
             "nosec": 0,
             "skipped_tests": 0,
@@ -328,7 +328,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/good/httpbrute.py": {
+          "./good/httpbrute.py": {
             "loc": 19,
             "nosec": 0,
             "skipped_tests": 0,
@@ -341,7 +341,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/good/libapi.py": {
+          "./good/libapi.py": {
             "loc": 37,
             "nosec": 0,
             "skipped_tests": 0,
@@ -354,7 +354,7 @@
             "CONFIDENCE.MEDIUM": 1,
             "CONFIDENCE.HIGH": 0
           },
-          "/good/libmfa.py": {
+          "./good/libmfa.py": {
             "loc": 55,
             "nosec": 0,
             "skipped_tests": 0,
@@ -367,7 +367,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/good/libposts.py": {
+          "./good/libposts.py": {
             "loc": 18,
             "nosec": 0,
             "skipped_tests": 0,
@@ -380,7 +380,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/good/libsession.py": {
+          "./good/libsession.py": {
             "loc": 39,
             "nosec": 0,
             "skipped_tests": 0,
@@ -393,7 +393,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 1
           },
-          "/good/libuser.py": {
+          "./good/libuser.py": {
             "loc": 90,
             "nosec": 0,
             "skipped_tests": 0,
@@ -406,7 +406,7 @@
             "CONFIDENCE.MEDIUM": 1,
             "CONFIDENCE.HIGH": 0
           },
-          "/good/mod_api.py": {
+          "./good/mod_api.py": {
             "loc": 47,
             "nosec": 0,
             "skipped_tests": 0,
@@ -419,7 +419,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/good/mod_csp.py": {
+          "./good/mod_csp.py": {
             "loc": 5,
             "nosec": 0,
             "skipped_tests": 0,
@@ -432,7 +432,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/good/mod_hello.py": {
+          "./good/mod_hello.py": {
             "loc": 5,
             "nosec": 0,
             "skipped_tests": 0,
@@ -445,7 +445,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/good/mod_mfa.py": {
+          "./good/mod_mfa.py": {
             "loc": 47,
             "nosec": 0,
             "skipped_tests": 0,
@@ -458,7 +458,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/good/mod_posts.py": {
+          "./good/mod_posts.py": {
             "loc": 23,
             "nosec": 0,
             "skipped_tests": 0,
@@ -471,7 +471,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/good/mod_user.py": {
+          "./good/mod_user.py": {
             "loc": 58,
             "nosec": 0,
             "skipped_tests": 0,
@@ -484,7 +484,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/good/mod_welcome1.py": {
+          "./good/mod_welcome1.py": {
             "loc": 19,
             "nosec": 0,
             "skipped_tests": 0,
@@ -497,7 +497,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/good/vulpy-ssl.py": {
+          "./good/vulpy-ssl.py": {
             "loc": 19,
             "nosec": 0,
             "skipped_tests": 0,
@@ -510,7 +510,7 @@
             "CONFIDENCE.MEDIUM": 4,
             "CONFIDENCE.HIGH": 0
           },
-          "/good/vulpy.py": {
+          "./good/vulpy.py": {
             "loc": 40,
             "nosec": 0,
             "skipped_tests": 0,
@@ -523,7 +523,7 @@
             "CONFIDENCE.MEDIUM": 2,
             "CONFIDENCE.HIGH": 0
           },
-          "/utils/aes-decrypt.py": {
+          "./utils/aes-decrypt.py": {
             "loc": 20,
             "nosec": 0,
             "skipped_tests": 0,
@@ -536,7 +536,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/utils/aes-encrypt.py": {
+          "./utils/aes-encrypt.py": {
             "loc": 21,
             "nosec": 0,
             "skipped_tests": 0,
@@ -549,7 +549,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/utils/ca-create.py": {
+          "./utils/ca-create.py": {
             "loc": 43,
             "nosec": 0,
             "skipped_tests": 0,
@@ -562,7 +562,7 @@
             "CONFIDENCE.MEDIUM": 3,
             "CONFIDENCE.HIGH": 0
           },
-          "/utils/ca-csr-create.py": {
+          "./utils/ca-csr-create.py": {
             "loc": 26,
             "nosec": 0,
             "skipped_tests": 0,
@@ -575,7 +575,7 @@
             "CONFIDENCE.MEDIUM": 2,
             "CONFIDENCE.HIGH": 0
           },
-          "/utils/ca-csr-load.py": {
+          "./utils/ca-csr-load.py": {
             "loc": 27,
             "nosec": 0,
             "skipped_tests": 0,
@@ -588,7 +588,7 @@
             "CONFIDENCE.MEDIUM": 4,
             "CONFIDENCE.HIGH": 0
           },
-          "/utils/crack-cvv.py": {
+          "./utils/crack-cvv.py": {
             "loc": 15,
             "nosec": 0,
             "skipped_tests": 0,
@@ -601,7 +601,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/utils/crack-hash.py": {
+          "./utils/crack-hash.py": {
             "loc": 15,
             "nosec": 0,
             "skipped_tests": 0,
@@ -614,7 +614,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/utils/fernet-generate-key.py": {
+          "./utils/fernet-generate-key.py": {
             "loc": 3,
             "nosec": 0,
             "skipped_tests": 0,
@@ -627,7 +627,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/utils/generate_bad_passwords.py": {
+          "./utils/generate_bad_passwords.py": {
             "loc": 29,
             "nosec": 0,
             "skipped_tests": 0,
@@ -640,7 +640,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/utils/hashfile.py": {
+          "./utils/hashfile.py": {
             "loc": 14,
             "nosec": 0,
             "skipped_tests": 0,
@@ -653,7 +653,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/utils/hmac_generate.py": {
+          "./utils/hmac_generate.py": {
             "loc": 13,
             "nosec": 0,
             "skipped_tests": 0,
@@ -666,7 +666,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/utils/httpbrute.py": {
+          "./utils/httpbrute.py": {
             "loc": 24,
             "nosec": 0,
             "skipped_tests": 0,
@@ -679,7 +679,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/utils/luncheck.py": {
+          "./utils/luncheck.py": {
             "loc": 13,
             "nosec": 0,
             "skipped_tests": 0,
@@ -692,7 +692,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/utils/rsa-decrypt.py": {
+          "./utils/rsa-decrypt.py": {
             "loc": 21,
             "nosec": 0,
             "skipped_tests": 0,
@@ -705,7 +705,7 @@
             "CONFIDENCE.MEDIUM": 1,
             "CONFIDENCE.HIGH": 0
           },
-          "/utils/rsa-encrypt.py": {
+          "./utils/rsa-encrypt.py": {
             "loc": 20,
             "nosec": 0,
             "skipped_tests": 0,
@@ -718,7 +718,7 @@
             "CONFIDENCE.MEDIUM": 1,
             "CONFIDENCE.HIGH": 0
           },
-          "/utils/rsa-keygen.py": {
+          "./utils/rsa-keygen.py": {
             "loc": 23,
             "nosec": 0,
             "skipped_tests": 0,
@@ -731,7 +731,7 @@
             "CONFIDENCE.MEDIUM": 2,
             "CONFIDENCE.HIGH": 0
           },
-          "/utils/rsa-sign.py": {
+          "./utils/rsa-sign.py": {
             "loc": 27,
             "nosec": 0,
             "skipped_tests": 0,
@@ -744,7 +744,7 @@
             "CONFIDENCE.MEDIUM": 1,
             "CONFIDENCE.HIGH": 0
           },
-          "/utils/rsa-verify.py": {
+          "./utils/rsa-verify.py": {
             "loc": 31,
             "nosec": 0,
             "skipped_tests": 0,
@@ -757,7 +757,7 @@
             "CONFIDENCE.MEDIUM": 1,
             "CONFIDENCE.HIGH": 0
           },
-          "/utils/scrypt-crack.py": {
+          "./utils/scrypt-crack.py": {
             "loc": 36,
             "nosec": 0,
             "skipped_tests": 0,
@@ -770,7 +770,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/utils/scrypt-generate.py": {
+          "./utils/scrypt-generate.py": {
             "loc": 23,
             "nosec": 0,
             "skipped_tests": 0,
@@ -783,7 +783,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/utils/scrypt-verify.py": {
+          "./utils/scrypt-verify.py": {
             "loc": 28,
             "nosec": 0,
             "skipped_tests": 0,
@@ -796,7 +796,7 @@
             "CONFIDENCE.MEDIUM": 0,
             "CONFIDENCE.HIGH": 0
           },
-          "/utils/skey.py": {
+          "./utils/skey.py": {
             "loc": 22,
             "nosec": 0,
             "skipped_tests": 0,
@@ -829,7 +829,7 @@
                   "startLine": 6
                 },
                 "artifactLocation": {
-                  "uri": "/bad/api_post.py"
+                  "uri": "./bad/api_post.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -865,7 +865,7 @@
                   "startLine": 19
                 },
                 "artifactLocation": {
-                  "uri": "/bad/db.py"
+                  "uri": "./bad/db.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -901,7 +901,7 @@
                   "startLine": 20
                 },
                 "artifactLocation": {
-                  "uri": "/bad/db_init.py"
+                  "uri": "./bad/db_init.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -937,7 +937,7 @@
                   "startLine": 16
                 },
                 "artifactLocation": {
-                  "uri": "/bad/libapi.py"
+                  "uri": "./bad/libapi.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -973,7 +973,7 @@
                   "startLine": 20
                 },
                 "artifactLocation": {
-                  "uri": "/bad/libapi.py"
+                  "uri": "./bad/libapi.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1009,7 +1009,7 @@
                   "startLine": 33
                 },
                 "artifactLocation": {
-                  "uri": "/bad/libapi.py"
+                  "uri": "./bad/libapi.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1045,7 +1045,7 @@
                   "startLine": 12
                 },
                 "artifactLocation": {
-                  "uri": "/bad/libuser.py"
+                  "uri": "./bad/libuser.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1081,7 +1081,7 @@
                   "startLine": 25
                 },
                 "artifactLocation": {
-                  "uri": "/bad/libuser.py"
+                  "uri": "./bad/libuser.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1117,7 +1117,7 @@
                   "startLine": 53
                 },
                 "artifactLocation": {
-                  "uri": "/bad/libuser.py"
+                  "uri": "./bad/libuser.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1154,7 +1154,7 @@
                   "startLine": 29
                 },
                 "artifactLocation": {
-                  "uri": "/bad/vulpy-ssl.py"
+                  "uri": "./bad/vulpy-ssl.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1190,7 +1190,7 @@
                   "startLine": 29
                 },
                 "artifactLocation": {
-                  "uri": "/bad/vulpy-ssl.py"
+                  "uri": "./bad/vulpy-ssl.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1226,7 +1226,7 @@
                   "startLine": 29
                 },
                 "artifactLocation": {
-                  "uri": "/bad/vulpy-ssl.py"
+                  "uri": "./bad/vulpy-ssl.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1263,7 +1263,7 @@
                   "startLine": 55
                 },
                 "artifactLocation": {
-                  "uri": "/bad/vulpy.py"
+                  "uri": "./bad/vulpy.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1299,7 +1299,7 @@
                   "startLine": 3
                 },
                 "artifactLocation": {
-                  "uri": "/good/cutpasswd.py"
+                  "uri": "./good/cutpasswd.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1335,7 +1335,7 @@
                   "startLine": 61
                 },
                 "artifactLocation": {
-                  "uri": "/good/libuser.py"
+                  "uri": "./good/libuser.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1372,7 +1372,7 @@
                   "startLine": 29
                 },
                 "artifactLocation": {
-                  "uri": "/good/vulpy-ssl.py"
+                  "uri": "./good/vulpy-ssl.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1408,7 +1408,7 @@
                   "startLine": 29
                 },
                 "artifactLocation": {
-                  "uri": "/good/vulpy-ssl.py"
+                  "uri": "./good/vulpy-ssl.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1444,7 +1444,7 @@
                   "startLine": 29
                 },
                 "artifactLocation": {
-                  "uri": "/good/vulpy-ssl.py"
+                  "uri": "./good/vulpy-ssl.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1481,7 +1481,7 @@
                   "startLine": 53
                 },
                 "artifactLocation": {
-                  "uri": "/good/vulpy.py"
+                  "uri": "./good/vulpy.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1517,7 +1517,7 @@
                   "startLine": 31
                 },
                 "artifactLocation": {
-                  "uri": "/utils/ca-create.py"
+                  "uri": "./utils/ca-create.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1553,7 +1553,7 @@
                   "startLine": 34
                 },
                 "artifactLocation": {
-                  "uri": "/utils/ca-create.py"
+                  "uri": "./utils/ca-create.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1589,7 +1589,7 @@
                   "startLine": 58
                 },
                 "artifactLocation": {
-                  "uri": "/utils/ca-create.py"
+                  "uri": "./utils/ca-create.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1625,7 +1625,7 @@
                   "startLine": 12
                 },
                 "artifactLocation": {
-                  "uri": "/utils/ca-csr-create.py"
+                  "uri": "./utils/ca-csr-create.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1661,7 +1661,7 @@
                   "startLine": 35
                 },
                 "artifactLocation": {
-                  "uri": "/utils/ca-csr-create.py"
+                  "uri": "./utils/ca-csr-create.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1697,7 +1697,7 @@
                   "startLine": 13
                 },
                 "artifactLocation": {
-                  "uri": "/utils/ca-csr-load.py"
+                  "uri": "./utils/ca-csr-load.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1733,7 +1733,7 @@
                   "startLine": 16
                 },
                 "artifactLocation": {
-                  "uri": "/utils/ca-csr-load.py"
+                  "uri": "./utils/ca-csr-load.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1769,7 +1769,7 @@
                   "startLine": 19
                 },
                 "artifactLocation": {
-                  "uri": "/utils/ca-csr-load.py"
+                  "uri": "./utils/ca-csr-load.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1805,7 +1805,7 @@
                   "startLine": 35
                 },
                 "artifactLocation": {
-                  "uri": "/utils/ca-csr-load.py"
+                  "uri": "./utils/ca-csr-load.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1841,7 +1841,7 @@
                   "startLine": 14
                 },
                 "artifactLocation": {
-                  "uri": "/utils/rsa-decrypt.py"
+                  "uri": "./utils/rsa-decrypt.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1877,7 +1877,7 @@
                   "startLine": 14
                 },
                 "artifactLocation": {
-                  "uri": "/utils/rsa-encrypt.py"
+                  "uri": "./utils/rsa-encrypt.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1913,7 +1913,7 @@
                   "startLine": 26
                 },
                 "artifactLocation": {
-                  "uri": "/utils/rsa-keygen.py"
+                  "uri": "./utils/rsa-keygen.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1949,7 +1949,7 @@
                   "startLine": 29
                 },
                 "artifactLocation": {
-                  "uri": "/utils/rsa-keygen.py"
+                  "uri": "./utils/rsa-keygen.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -1985,7 +1985,7 @@
                   "startLine": 15
                 },
                 "artifactLocation": {
-                  "uri": "/utils/rsa-sign.py"
+                  "uri": "./utils/rsa-sign.py"
                 },
                 "contextRegion": {
                   "snippet": {
@@ -2021,7 +2021,7 @@
                   "startLine": 16
                 },
                 "artifactLocation": {
-                  "uri": "/utils/rsa-verify.py"
+                  "uri": "./utils/rsa-verify.py"
                 },
                 "contextRegion": {
                   "snippet": {

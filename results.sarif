@@ -841,6 +841,27 @@
               }
             }
           ],
+          "fixes": [
+            {
+              "description": {
+                "text": "Fix this issue by performing steps X, Y, and Z."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "bad/api_post.py"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "startLine": 6
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
           "properties": {
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"

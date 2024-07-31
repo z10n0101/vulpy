@@ -823,9 +823,12 @@
       },
       "results": [
         {
-          "message": {
-            "text": "This is a very long message describing the problem in detail. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras venenatis euismod malesuada. Etiam porttitor, dui id volutpat ultricies, libero velit pretium mi, nec pharetra diam nisl at odio. Aliquam at faucibus dui. Suspendisse potenti. Curabitur placerat sed est nec dictum. Donec at suscipit quam, sed ornare orci. Aliquam vel urna at odio semper vehicula eu non nulla. Mauris efficitur dictum erat, non feugiat enim mattis non. Nam ultrices, mauris ut ullamcorper accumsan, erat felis egestas nisi, ut convallis nulla massa ut dui."},
-          "locations": [
+         "message": {
+            "text": "This is text!",
+            "markdown": "This is _markdown_!"
+          },
+          
+"locations": [
             {
               "physicalLocation": {
                 "region": {

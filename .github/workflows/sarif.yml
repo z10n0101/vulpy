@@ -1,0 +1,23 @@
+name: sarif4reviewdog
+on: 
+    workflow_dispatch:
+jobs:
+  # TODO: change `linter_name`.
+  sarif_reviewdog:
+    name: sarif reviewdog
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v2
+      - uses: HollowMan6/sarif4reviewdog@v1
+        with:
+          file: 'results.sarif'
+          # Remember to allow GitHub Actions to create and approve pull requests
+          # https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository#preventing-github-actions-from-creating-or-approving-pull-requests
+          # github_token: ${{ secrets.github_token }}
+          # Change reviewdog reporter if you need [github-pr-check,github-check,github-pr-review].
+          reporter: github-pr-review
+          # Change reporter level if you need.
+          # GitHub Status Check won't become failure with warning.
+          level: warning

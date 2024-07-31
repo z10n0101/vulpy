@@ -814,8 +814,7 @@
       "results": [
         {
           "message": {
-            "text": "## Remediation Steps\n1. **Change 'foo' to 'bar'.**\n2. **Review the API usage.**\n### Example:\n```java\n// Before\nfoo();\n\n// After\nbar();\n```\n\n### Detailed Explanation\nFoobar is a temporary placeholder to improve readability and maintainability."
-          },
+            "text": "typiskfhumejiicvrpkpamrejzdvggcstfalvtgtqzigpqaamtkcnkhjklhxrfsmeqlkkqnxociseyymyfcqwofdljkhmwkudslvisutkmzedxufactismdoevlpkblvnyjeojhwoxkavddzaoxavbjhtxbcgnqakybkrywljyxhdyadsdwigsmczdcqdgsyndsgtxigtplgcuxvwywrwdrwrfjzhljybifxaprdfmhiguuckcxescojlhpreaefxrlawcpcfbqnlaonexdxhzynogcmdwilvnjkenstxmrj" },
           "locations": [
             {
               "physicalLocation": {

@@ -7,7 +7,7 @@
           "organization": "PyCQA",
           "rules": [
             {
-              "id": "B108",
+              "id": "B288",
               "name": "hardcoded_tmp_directory",
           "shortDescription": {
                 "text": "Rule shortDescription"
@@ -26,7 +26,7 @@
                 ],
                 "precision": "medium"
               },
-              "helpUri": "https://bandit.readthedocs.io/en/1.7.8/plugins/b108_hardcoded_tmp_directory.html"
+              "helpUri": "https://bandit.readthedocs.io/en/1.7.8/plugins/B288_hardcoded_tmp_directory.html"
             },
             {
               "id": "B608",
@@ -878,7 +878,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -986,7 +986,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -1022,7 +1022,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -1058,7 +1058,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -1239,7 +1239,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -1275,7 +1275,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -1348,7 +1348,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -1457,7 +1457,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -1493,7 +1493,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -1566,7 +1566,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -1602,7 +1602,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -1638,7 +1638,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -1674,7 +1674,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -1710,7 +1710,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -1746,7 +1746,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -1782,7 +1782,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -1818,7 +1818,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -1854,7 +1854,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -1890,7 +1890,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -1926,7 +1926,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -1962,7 +1962,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -1998,7 +1998,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -2034,7 +2034,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         },
         {
@@ -2070,7 +2070,7 @@
             "issue_confidence": "MEDIUM",
             "issue_severity": "MEDIUM"
           },
-          "ruleId": "B108",
+          "ruleId": "B288",
           "ruleIndex": 0
         }
       ]

@@ -1,0 +1,45 @@
+name: Glog Scan
+on:
+  workflow_dispatch:
+
+jobs:
+  glog-scan:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      packages: read
+      security-events: write
+      issues: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Checkout glog-action repository
+        uses: actions/checkout@v6
+        with:
+          repository: glogai/glog-action
+          token: ${{ secrets.PAT_TOKEN }}
+          path: .github/glog-action
+          ref: main
+
+      - name: Run Glog.AI
+        uses: ./.github/glog-action
+        with:
+          client: 'test'
+          github-token: ${{ secrets.PAT_TOKEN }}
+          glog-token: ${{ secrets.GLOG_TOKEN }}
+          upload: 'true'
+          on-prem-upload: 'true'
+          issue: 'true'
+          autofix: 'false'
+          sarif-format-type: 'GITHUB'
+          server-sarif-format-type: 'STANDARD'
+          sbom: 'true'
+          vex: 'true'
+          cbom: 'true'
+          supply-chain: 'true'
+          rebuild: 'true'
+          rebuild-max-packages: '25'
+          scl-uuid: 'f4c411d0-fd3b-4d60-90c1-5f524af59a18'
